@@ -1,5 +1,7 @@
 # Security_Device_Using_Bluetooth_and_AndroidApplication_Involved_with_Solenoid_Lock
 Technology has improved, and smart locking systems have become more sophisticated. In this case, the android-based Smart System is primarily intended for multimode operations. we introduced a form of smart technology that utilized Bluetooth while using a mobile smartphone. Consequently, using it will be simpler and more effective.
+# Published in IEEE_Xplore
+  [Go to Paper Published](https://ieeexplore.ieee.org/document/10112928)
 # Working:
 •We have to give sufficient voltage of power supply through Arduino, It can be achieved by connecting the Arduino to your PC through USB.
 
